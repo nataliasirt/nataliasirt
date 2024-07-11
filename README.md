@@ -1,4 +1,6 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!)](https://git.io/typing-svg)
+### :woman_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!--
 **nataliasirt/nataliasirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

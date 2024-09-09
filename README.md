@@ -16,33 +16,41 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <h3>My stack:</h3>
 
 <img align="left" style="margin-left:5px"
-    alt="HTML5"
-    title="HTML5"
+    alt="Python"
+    title="Python"
     height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   />
-
-<img align="left" style="margin-left:5px"
-    alt="CSS3"
-    title="CSS4"
+  <img align="left" style="margin-left:5px"
+    alt="Java"
+    title="Java"
     height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   />
-  
-<img align="left" style="margin-left:5px"
+  <img align="left" style="margin-left:5px"
     alt="JavaScript"
     title="JavaScript"
     height="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
-
 <img align="left" style="margin-left:5px"
     alt="TypeScript"
     title="TypeScript"
     height="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
   />
-
+<img align="left" style="margin-left:5px"
+    alt="HTML5"
+    title="HTML5"
+    height="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+<img align="left" style="margin-left:5px"
+    alt="CSS3"
+    title="CSS4"
+    height="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
 <img align="left" style="margin-left:5px"
     alt="React"
     title="React"

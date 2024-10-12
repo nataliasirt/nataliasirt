@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Natalia)](https://git.io/typing-svg)
 ### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+You've entered my coding haven! Dive in, explore, and let's turn ideas into reality. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 <div class="socials" align="left" style="margin:1,5rem 0 1.5rem">
   <a href="https://www.linkedin.com/in/natalia-sirtak/">

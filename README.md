@@ -25,3 +25,21 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
+
+<h1 align="center">Projects</h1>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Jobify</h3><br/>
+      <p align="center">
+        <a target="_blank" href="https://mern-jobify-qssh.onrender.com">
+          <img src="https://github.com/nataliasirt/nataliasirt/blob/main/jobify.gif" alt="portfolio" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/nataliasirt/mern-jobify.git" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </p>
+      <p><strong> React.js | MongoDB | Express.js | Node.js | React Router 6.4+ | React Query | Mongoose 7+ </strong><br>Full Stack MERN Application built with modern technologies including React Router 6.4+, React Query, MongoDB with Mongoose 7+ and Cloudinary integration.
+ </p>
+    </td>

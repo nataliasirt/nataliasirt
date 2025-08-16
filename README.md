@@ -1,109 +1,27 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Natalia)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+My+name+is+Natalia)](https://git.io/typing-svg)
 ### :woman_technologist: About Me :
-👋 Hi there! I'm always learning, coding, and creating. Check out my projects and let’s make something awesome together! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</div>
-<div class="socials" align="left" style="margin:1,5rem 0 1.5rem">
-  <a href="https://www.linkedin.com/in/natalia-sirtak/">
-    <img src="https://img.shields.io/badge/Natalia Sirtak-0A66C2?style=social&logo=linkedin" alt="link to LinkedIn">
-  </a>
-  <a href="mailto:nsirtakjob@gmail.com">
-    <img src="https://img.shields.io/badge/nsirtakjob@gmail.com-EA4335?style=social&logo=gmail" alt="link to email">
-  </a>
-  <a href="https://t.me/nataliasirt">
-    <img src="https://img.shields.io/badge/@nataliasirt-26A5E4?style=social&logo=telegram" alt="link to telegram">
-  </a>
-</div>
-<h3>My stack:</h3>
-
-<img align="left" style="margin-left:5px"
-    alt="Python"
-    title="Python"
-    height="32px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  />
-  <img align="left" style="margin-left:5px"
-    alt="Java"
-    title="Java"
-    height="32px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-  />
-  <img align="left" style="margin-left:5px"
-    alt="JavaScript"
-    title="JavaScript"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-<img align="left" style="margin-left:5px"
-    alt="TypeScript"
-    title="TypeScript"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  />
-<img align="left" style="margin-left:5px"
-    alt="HTML5"
-    title="HTML5"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
-<img align="left" style="margin-left:5px"
-    alt="CSS3"
-    title="CSS4"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  />
-<img align="left" style="margin-left:5px"
-    alt="React"
-    title="React"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  />
-  
-<img align="left" style="margin-left:5px"
-    alt="NodeJS"
-    title="NodeJs"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-  />
-
-<img align="left" style="margin-left:5px"
-    alt="mongoDB"
-    title="mongoDB"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-  />
-
-<img align="left" style="margin-left:5px"
-    alt="webpack"
-    title="webpack"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg"
-  />
-
-<img align="left" style="margin-left:5px"
-    alt="git"
-    title="git"
-    height="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
-  />
-
-<img
-    style="margin-left:5px"
-    alt="MySQL"
-    title="MySQL"
-    width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-  />
-<!--
-**nataliasirt/nataliasirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 I'm always learning, coding, and creating. Check out my projects and let’s make something awesome together! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/natalia-sirtak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msrezaie" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Front-end:</h3>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<h4 align="left">Back-end:</h3>
+<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+</p>

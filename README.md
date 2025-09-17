@@ -51,7 +51,7 @@
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/nataliasirt/ai-travel-planner.git" target="_blank">
+    <a href=" https://https:/github.com/nataliasirt/ai-trip-planner" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
     </a>
   </p>

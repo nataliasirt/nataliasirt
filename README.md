@@ -43,3 +43,22 @@
       <p><strong> React.js | MongoDB | Express.js | Node.js | React Router 6.4+ | React Query | Mongoose 7+ </strong><br>Full Stack MERN Application built with modern technologies including React Router 6.4+, React Query, MongoDB with Mongoose 7+ and Cloudinary integration.
  </p>
     </td>
+    <td width="50%" valign="top">
+  <h3 align="center">AI Travel Planner</h3><br/>
+  <p align="center">
+    <a target="_blank" href="https://your-live-demo-link.com">
+      <img src="https://github.com/nataliasirt/nataliasirt/blob/main/travel-planner.gif" alt="AI Travel Planner" width="100%">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/nataliasirt/ai-travel-planner.git" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    </a>
+  </p>
+  <p>
+    <strong> React.js | Firebase | Google Gemini AI | TailwindCSS | React Router 6.4+ </strong><br>
+    AI-powered Travel Planner that generates personalized itineraries and hotel recommendations using Google Gemini AI. 
+    Firebase handles data storage, while React Router powers seamless navigation. 
+    Includes responsive UI with TailwindCSS and Firestore integration for trip persistence.
+  </p>
+</td>

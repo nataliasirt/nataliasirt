@@ -47,7 +47,7 @@
   <h3 align="center">AI Travel Planner</h3><br/>
   <p align="center">
     <a target="_blank" href="https://your-live-demo-link.com">
-      <img src="https://github.com/nataliasirt/nataliasirt/blob/main/travel-planner.gif" alt="AI Travel Planner" width="100%">
+      <img src="https://github.com/nataliasirt/nataliasirt/blob/main/ai-planner9.gif" alt="AI Travel Planner" width="100%">
     </a>
   </p>
   <p align="center">
